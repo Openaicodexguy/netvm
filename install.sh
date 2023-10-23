@@ -1,0 +1,1 @@
+sudo apt update -y && sudo apt install qemu-kvm libvirt-daemon -y
